@@ -1,2 +1,2 @@
-# TSW-PMS-for-LNUT
-TSW-PMS-for-LNUT
+# TSW_PMS
+Student Exploration and Discovery Network
