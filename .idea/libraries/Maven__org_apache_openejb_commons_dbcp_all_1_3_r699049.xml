@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.openejb:commons-dbcp-all:1.3-r699049">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/openejb/commons-dbcp-all/1.3-r699049/commons-dbcp-all-1.3-r699049.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/openejb/commons-dbcp-all/1.3-r699049/commons-dbcp-all-1.3-r699049-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/openejb/commons-dbcp-all/1.3-r699049/commons-dbcp-all-1.3-r699049-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
